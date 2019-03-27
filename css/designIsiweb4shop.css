@@ -1,0 +1,96 @@
+[class="page-header"] {
+	background-color: #474646;
+	padding-top: 10px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+[class="container"] {
+	width: auto;
+}
+
+[class="row"] {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+[class="col-md-2"] {
+	height: 500px;
+}
+
+[class="col-md-3"] {
+	margin-top: 10px;
+	margin-bottom: 30px;
+	width: 200px;
+	height: 150px;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+[class="btn btn-default"]{
+	margin-bottom: 30px;
+}
+
+[class="connexion"] {
+	border-collapse: separate;
+	border-spacing: 10px;
+}
+[class="trait"]{
+	border-top: 2px solid #474646;
+}
+
+[class="col-md-3 produits"]{
+	width: 300px;
+	margin-top: 25px;
+}
+
+[class="col-md-3 infoPanier"]{
+	width: 300px;
+	margin-top: 20px;
+}
+
+[class="control-label col-sm-2 adresse"]{
+	height: 50px;
+}
+
+#produits, #qty {
+	margin: auto;
+}
+
+#nomProduit {
+	font-size: 16px;
+}
+
+
+#qty {
+	border-style: outset;
+	border-radius: 5px;
+	height: 30px;
+	width: 120px;
+}
+
+#contour {
+	background-color: #DEDDDD;
+}
+
+#panier {
+	margin: auto;
+}
+
+
+
+p, a, h2 {
+	color: #474646;
+}
+
+h1 {
+	color: white;
+}
+
+img {
+	width: 150;
+	height: 150px;
+}
+
+body {
+	margin-top: 10px;
+}
